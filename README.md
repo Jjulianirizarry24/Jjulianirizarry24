@@ -10,3 +10,5 @@
 - Interested in learning more about: AI, Cloud Computing
 - Top Languages: Python, C++, C#
 - Hobbies: Game Development, Music Composition, Weightlifting
+
+[![JJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjulianirizarry24)](https://github.com/anuraghazra/github-readme-stats)
