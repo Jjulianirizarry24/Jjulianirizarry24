@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm JJ  
+# Hi, I'm JJ  
 🎓 Software Engineering Student | 💻 Incoming SWE Intern @ Google | 🎸 Musician
 
 </div>
