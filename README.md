@@ -1,11 +1,22 @@
 <div align="center">
-<h1 align="center">Hi, I'm JJ</h1>
+
+# 👋 Hi, I'm JJ  
+🎓 Software Engineering Student | 💻 Incoming SWE Intern @ Google | 🎸 Musician
+
 </div>
 
-## About me
-- Software Engineering Student (Grad May 2026)
-- Google Tech Exchange Alumni (Spring 2024)
-- Former Microsoft Intern (Summer 2024)
+---
+
+## About Me
+
+- 🎓 **Software Engineering Student** — *Graduating May 2026*
+- 🌐 **Google Tech Exchange Alumni** — *Spring 2024*
+- 💼 **Former Microsoft Intern** — *Summer 2024*
+- 🚀 Passionate about building scalable systems, exploring AI, and mobile development.
+
+---
+
+
   
 <div align="center">
 
