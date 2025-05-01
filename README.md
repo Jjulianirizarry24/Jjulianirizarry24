@@ -9,4 +9,4 @@
 ### Github Stats
 [![JJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjulianirizarry24)](https://github.com/anuraghazra/github-readme-stats)
 ### Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/Jujo?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Jjulianirizarry24?ext=heatmap)
