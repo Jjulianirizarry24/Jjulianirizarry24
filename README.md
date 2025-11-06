@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm JJ  
-🎓 Software Engineering Student | 💻 Incoming SWE Intern @ Google | 🎸 Musician
+🎓 Software Engineering Student | 💻 Former SWE Intern @ Google | 🎸 Musician
 
 </div>
 
